@@ -1,0 +1,9 @@
+5.git init --initialize git repository
+6.git config --global user.name"username" --configure the user name
+7.git config --global user.email "mailid" --configure the mailid
+8.git remote add origin https://github.com/Namaswi2020/Devops.git --to add the path to our repository
+9.git status --know the status of git
+10.git add 1.txt --add the file to the git repository
+11.git commit -m "this is my first commit" --commits the changes
+12.git branch -M main --to set the main brantch to the file
+13.git push -u origin main -- to push our changes to the remote repository
